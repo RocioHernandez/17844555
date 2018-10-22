@@ -1,0 +1,29 @@
+{
+  "persona" : {
+    "nombre" : "ALEJANDRO",
+    "apPaterno" : "BERGWERF",
+    "apMaterno" : "ZAMORA",
+    "fechaNacimiento" : "1964-08-27",
+    "sexo" : "1",
+    "rfc" : "BEZA640827AA1",
+    "curp" : "BEZA640827AA1212AS",
+    "tipoPersona" : "1"
+  },
+  "cliente" : {
+    "buc" : "01234567",
+    "segmento" : "A013"
+  },
+  "contacto" : {
+    "correo" : "prueba@dominio.com",
+    "direccion" : {
+      "domicilio" : "CALLE DE LA AMARGURA 1",
+      "codigoPostal" : "54740"
+    },
+    "telefono" : {
+      "movilLada" : "442",
+      "movilNumero" : "1234567",
+      "fijoLada" : "442",
+      "fijoNumero" : "1234567"
+    }
+  }
+}
